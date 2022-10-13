@@ -2,6 +2,8 @@
 
 git clone https://github.com/Syc0ms/Instigate-mobile-tasks.git
 
+# Թրուցիկ ծանոթացում
+
 Բոլոր Bash պարունակող նիշերում գրել chmod +x (նիշի անունը)
 
 Բոլոր JavaScript պարունակող նիշերում գրել npm install (Բացի getOSData պանակում)
