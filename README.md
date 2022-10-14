@@ -2,7 +2,7 @@
 ```
 git clone https://github.com/Syc0ms/Instigate-mobile-tasks.git
 ```
-# Թրուցիկ ծանոթացում
+# Թռուցիկ ծանոթացում
 
 ## Բոլոր Bash պարունակող նիշերում գրել 
 ```
