@@ -1,5 +1,7 @@
 ### Փաստաթուղթը հասանելի է հայերէն եւ անգղիերեն տարբերակներով
 
+
+
 # Ինչպէ՞ս ներբեռնել
 ```
 git clone https://github.com/Syc0ms/Instigate-mobile-tasks.git
